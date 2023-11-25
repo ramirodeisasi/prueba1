@@ -1,0 +1,5 @@
+primera clase mucho html y preguntas. 
+
+instalacion de live server.
+
+git tambien instale por mi cuenta
